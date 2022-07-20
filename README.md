@@ -13,15 +13,15 @@
 
 
 ## Technologies Used
-Python
-Numpy
-Pandas
-Seaborn
-Matplotlib
-scikit-learn
-colab
-keras
-Tensorflow
+- Python
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- scikit-learn
+- colab
+- keras
+- Tensorflow
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
